@@ -1,0 +1,28 @@
+[
+	{
+		"id": 1,
+		"name": "Água",
+		"description": "Conta de Água",
+		"dateSpent": "2021-09-09",
+		"amount": 100.0,
+		"tags": [
+			{
+				"id": 1,
+				"name": "AGUA"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Luz",
+		"description": "Conta de Luz",
+		"dateSpent": "2021-10-09",
+		"amount": 200.0,
+		"tags": [
+			{
+				"id": 2,
+				"name": "LUZ"
+			}
+		]
+	}
+]

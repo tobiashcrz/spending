@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"name": "Água",
+		"description": "Conta de Água",
+		"date": "09/09/2021",
+		"amount": 100.0,
+		"tags": [
+			"AGUA"
+		]
+	},
+	{
+		"id": 2,
+		"name": "Luz",
+		"description": "Conta de Luz",
+		"date": "09/10/2021",
+		"amount": 200.0,
+		"tags": [
+			"LUZ",
+			"ELETROCAR"
+		]
+	}
+]

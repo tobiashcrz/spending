@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    config:
+      enabled: false
+clients:
+  spending-manager:
+    base-url: "http://localhost:8080"
+    path-get-all: "/spendings"
+    path-create: "/spent"
+    path-get-id: "/spent/{id}"
+    path-update: "/spent/{id}"

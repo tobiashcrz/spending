@@ -1,0 +1,13 @@
+{
+	"id": 1,
+	"name": "Água",
+	"description": "Conta de Água",
+	"dateSpent": "2021-09-09",
+	"amount": 100.0,
+	"tags": [
+		{
+			"id": 1,
+			"name": "AGUA"
+		}
+	]
+}
